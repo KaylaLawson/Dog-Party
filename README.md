@@ -13,7 +13,7 @@ was to try my best at keeping the HTML simple by utilizing semantic elements and
 In CSS I did my best to keep the styling properties simple. The layout in which I organized my CSS
 was by starting with the selectors  and then moving to edit the classes (.) and then moving on to any id tags (#) I identified in the HTML. 
 
-My examples: 
+My examples:  
 <img width="1409" alt="screen shot 2018-12-02 at 4 07 49 pm" src="https://user-images.githubusercontent.com/37053236/49347220-aaa0fe80-f659-11e8-892d-9954d64fbc3d.png">
 
 <img width="1411" alt="screen shot 2018-12-02 at 4 09 03 pm" src="https://user-images.githubusercontent.com/37053236/49347230-b8ef1a80-f659-11e8-8740-6733e547ae70.png">
