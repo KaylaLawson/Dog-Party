@@ -3,6 +3,8 @@ Dog Party is a project designed for learning the basics of HTML and CSS. The obj
 design and recreate it. You have the option to go further and build out extensions but I did not do those extensions with this project. What you see is just the HTML and CSS I used to best attempt the recreation of the Dog Party Comp provided to us. 
 
 Example provided:
+![dog-party-js-edition](https://user-images.githubusercontent.com/37053236/49347143-db346880-f658-11e8-8426-3ed7dceaf6d7.jpg)
+
 
 
 ## The Basic Outline 
