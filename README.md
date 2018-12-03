@@ -5,8 +5,6 @@ design and recreate it. You have the option to go further and build out extensio
 Example provided:
 ![dog-party-js-edition](https://user-images.githubusercontent.com/37053236/49347143-db346880-f658-11e8-8426-3ed7dceaf6d7.jpg)
 
-
-
 ## The Basic Outline 
 
 As I didn't submit the extensions for Dog Party, my recreation is very simple. The way in which I approached the project 
@@ -16,3 +14,7 @@ In CSS I did my best to keep the styling properties simple. The layout in which 
 was by starting with the selectors  and then moving to edit the classes (.) and then moving on to any id tags (#) I identified in the HTML. 
 
 My examples: 
+<img width="1409" alt="screen shot 2018-12-02 at 4 07 49 pm" src="https://user-images.githubusercontent.com/37053236/49347220-aaa0fe80-f659-11e8-892d-9954d64fbc3d.png">
+
+<img width="1411" alt="screen shot 2018-12-02 at 4 09 03 pm" src="https://user-images.githubusercontent.com/37053236/49347230-b8ef1a80-f659-11e8-8740-6733e547ae70.png">
+
