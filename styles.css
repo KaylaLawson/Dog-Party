@@ -1,0 +1,150 @@
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  width: 100%;
+  color: #000000;
+  border: solid #000000;
+}
+header {
+  background-color: #75e2e6;
+  width: 100%;
+  border-bottom: solid #048eaa;
+  height: 70px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+}
+form {
+  text-align: center;
+}
+
+footer {
+  margin-top:45px;
+  color:#ffffff;
+  background-color:#048eaa;
+  width:100%;
+  text-align: center;
+  height: 200px;
+  padding-top: 100px;
+}
+h2 {
+  text-align: center;
+  margin: 0;
+}
+h3 {
+  display: block;
+  margin:auto;
+  font-size: 20pt;
+  margin-bottom: 30px;
+
+}
+.logo {
+  width: 50px;
+  height: 50px;
+  padding: 10px;
+}
+.navigation {
+  display: inline-block; 
+  float:right;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  font-size: 20pt;
+}
+.top {
+  display: inline-block;
+  font-weight: bold;
+}
+.top a {
+  text-decoration: none;
+  color: #000000;
+  padding: 5px;
+}
+.about {
+  text-align: center;
+  padding-bottom: 1px;
+  margin: auto;
+  margin-bottom: 30px;
+  color: white;
+  font-weight: 300;
+  font-size: 30pt;
+}
+.img-dogs {
+  display: block; 
+  margin: auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: solid #048eaa;
+  margin-top:10px;
+}
+.nametitle {
+  text-align:left;
+  color: white;
+  font-size: 12pt;
+  font-weight: 300: 
+}
+.input {
+  border-style: none;
+  text-align: left;
+  font-size: 20pt;
+  display: inline;
+  margin: auto;
+  margin-top: 10px;
+  width: 500px;
+  height: 50px;
+  padding: 0;
+}
+.submitbutton {
+  width: 500px;
+  height: 50px;
+  padding: 0;
+  margin-top: 20px;
+  padding-top: 5px;
+  font-size: 15pt;
+  background-color: #75e2e6;
+  border: none;
+  color: black;
+}
+.heroimage {
+  background-image: url(./images/park.jpg);
+  background-color: rgba(0,0,0,0.5)
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+.dogcol {
+  margin-top: 45px;
+  column-count: 3;
+  width: 100%;
+  padding-left: 70px;
+
+}
+.column {
+  width: 75%;
+  text-align: left;
+  padding: 10px;
+  margin-right: 0;
+}
+.buttoncol {
+  width: 75%;
+  height: 50px;
+  color: white;
+  font-size: 15pt;
+  display: block;
+  margin: auto;
+  background-color: #048eaa;
+}
+.icon {
+  display: inline-block;
+  margin: 15px;
+  height: 50px;
+}
+#somedogs {
+  font-weight: 900;
+}
+
+
